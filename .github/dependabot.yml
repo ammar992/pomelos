@@ -1,0 +1,18 @@
+version: 2
+updates:
+  - package-ecosystem: npm
+    directory: /
+    schedule:
+      interval: weekly
+    open-pull-requests-limit: 10
+    groups:
+      react-three:
+        patterns: ["three", "@types/three", "@react-three/*"]
+      next:
+        patterns: ["next", "eslint-config-next", "next-intl"]
+      animation:
+        patterns: ["gsap", "@gsap/*", "framer-motion", "lenis"]
+  - package-ecosystem: github-actions
+    directory: /
+    schedule:
+      interval: weekly

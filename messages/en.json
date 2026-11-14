@@ -1,0 +1,759 @@
+{
+  "meta": {
+    "siteTagline": "Sourcing and Sales in Taiwan for Global Businesses",
+    "home": {
+      "title": "Sourcing and Sales in Taiwan for Global Businesses",
+      "description": "Pomelos helps business owners around the globe source quality products in Taiwan, from sourcing materials and manufacturing to final delivery and after-sales service."
+    },
+    "about": {
+      "title": "About Us",
+      "description": "Two friends from the East and the West, one shared belief: products should be made to last. Work directly with the owner of Pomelos."
+    },
+    "services": {
+      "title": "Services",
+      "description": "Product sourcing, supplier coordination, manufacturing support, import and sales support, shipping to your country and after-sales service, all from Taiwan."
+    },
+    "contact": {
+      "title": "Contact",
+      "description": "Still figuring out sourcing and sales for your global business? Get in touch with Pomelos for a free consultation."
+    },
+    "privacy": {
+      "title": "Privacy Policy",
+      "description": "How Pomelos collects, uses and protects personal information submitted through this website."
+    },
+    "terms": {
+      "title": "Terms & Conditions",
+      "description": "The terms that govern your use of the Pomelos website."
+    },
+    "cookies": {
+      "title": "Cookie Policy",
+      "description": "Which cookies the Pomelos website uses and why."
+    },
+    "notFound": {
+      "title": "Page Not Found",
+      "description": "The page you requested could not be found."
+    }
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About Us",
+    "services": "Services",
+    "contact": "Contact",
+    "cta": "Contact Pomelos",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu",
+    "skipToContent": "Skip to main content",
+    "primary": "Primary navigation",
+    "language": "Language",
+    "languageSwitcher": "Change language",
+    "languages": {
+      "en": "English",
+      "zh-TW": "繁體中文"
+    },
+    "menuEyebrow": "Navigate"
+  },
+  "common": {
+    "exploreServices": "Explore Our Services",
+    "contactPomelos": "Contact Pomelos",
+    "learnMore": "Learn more",
+    "viewAllServices": "View all services",
+    "backToHome": "Back to home",
+    "emailUs": "Email us",
+    "freeConsultation": "Free consultation",
+    "loading": "Loading…",
+    "lastUpdated": "Last updated: {date}",
+    "scrollHint": "Scroll to explore",
+    "illustrative": "Illustrative"
+  },
+  "loader": {
+    "label": "Connecting Taiwan to the world",
+    "steps": [
+      "Sourcing",
+      "Manufacturing",
+      "Delivery"
+    ]
+  },
+  "hero": {
+    "eyebrow": "Sourcing & Sales · Taiwan",
+    "titleLine1": "Connecting Taiwan",
+    "titleLine2": "to Global Opportunities.",
+    "description": "Your trusted partner for product sourcing, manufacturing coordination and international business support, from the first sample to delivery and after-sales service.",
+    "badge": "Based in Taiwan · Working worldwide",
+    "chips": [
+      "Product sourcing",
+      "Manufacturing",
+      "Shipping",
+      "After-sales"
+    ],
+    "taiwan": "Taiwan",
+    "sceneLabel": "Interactive 3D globe with Taiwan highlighted and animated trade routes connecting it to destinations around the world."
+  },
+  "home": {
+    "intro": {
+      "eyebrow": "Sourcing and Sales in Taiwan",
+      "title": "Importing should not be a problem.",
+      "questions": [
+        "Are you a business owner looking for a partner to import goods to your country without any problems?",
+        "Do you need help finding the right products and arranging their shipment?"
+      ],
+      "answer": "That is exactly what Pomelos does. We are based in Taiwan and work for business owners around the globe, finding quality products, coordinating their production and making sure they reach you."
+    },
+    "stats": {
+      "eyebrow": "How we are different",
+      "items": [
+        {
+          "value": 1,
+          "label": "Point of contact: you work directly with the owner"
+        },
+        {
+          "value": 5,
+          "label": "Stages handled, from sourcing to after-sales"
+        },
+        {
+          "value": 2,
+          "label": "Cultures, East and West, behind Pomelos"
+        },
+        {
+          "value": 0,
+          "label": "Budget spent on advertising, so you get a better price"
+        }
+      ]
+    },
+    "whatWeDo": {
+      "eyebrow": "What Pomelos does",
+      "title": "From sourcing materials to the destination country.",
+      "description": "We help business owners around the globe source quality products in Taiwan. We take care of the whole chain, so you can focus on your business.",
+      "steps": [
+        {
+          "title": "Source",
+          "description": "Find quality products and materials in Taiwan."
+        },
+        {
+          "title": "Produce",
+          "description": "Coordinate manufacturing and production."
+        },
+        {
+          "title": "Deliver",
+          "description": "Arrange shipment to your country."
+        },
+        {
+          "title": "Support",
+          "description": "Take care of after-sales service."
+        }
+      ]
+    },
+    "services": {
+      "eyebrow": "Core services",
+      "title": "One partner for your whole supply chain.",
+      "description": "Every service can be used on its own or combined, depending on what your business needs."
+    },
+    "why": {
+      "eyebrow": "Why choose Pomelos",
+      "title": "Small, direct and focused on quality.",
+      "items": [
+        {
+          "title": "You work with the owner",
+          "description": "There is no junior taking over your project. You work directly with the owner from the first email to the final delivery."
+        },
+        {
+          "title": "Flexible problem solvers",
+          "description": "We are a team with flexibility and problem-solving skills. When something changes, we adapt."
+        },
+        {
+          "title": "One line, not a paragraph",
+          "description": "We are a flat organisation. If something can be communicated in one line, there is no need for a paragraph."
+        },
+        {
+          "title": "Better prices",
+          "description": "We don't spend our budget on advertising, because we want to provide the best price for our customers."
+        },
+        {
+          "title": "Products made to last",
+          "description": "We look for quality and durability, not products designed to be replaced every few months."
+        },
+        {
+          "title": "From production to after-sales",
+          "description": "We take care of your production and delivery, and we stay with you for after-sales service."
+        }
+      ]
+    },
+    "how": {
+      "eyebrow": "How we work",
+      "title": "A simple, transparent process.",
+      "description": "Tell us what you need. We handle the rest and keep you informed at every step.",
+      "steps": [
+        {
+          "title": "Free consultation",
+          "description": "Tell us about your product, your market and your goals. We discuss your project together."
+        },
+        {
+          "title": "Sourcing",
+          "description": "We look for the right products, materials and partners in Taiwan."
+        },
+        {
+          "title": "Production",
+          "description": "We coordinate manufacturing and follow up on quality."
+        },
+        {
+          "title": "Delivery",
+          "description": "We arrange shipment to the destination country."
+        },
+        {
+          "title": "After-sales",
+          "description": "We remain your contact after delivery and take care of after-sales service."
+        }
+      ]
+    },
+    "global": {
+      "eyebrow": "Taiwan to the world",
+      "title": "Sourcing and sales from Taiwan to the world.",
+      "description": "Taiwan is at the centre of our work. From here, we help businesses around the globe get the products they need.",
+      "hub": "Taiwan",
+      "regions": [
+        "Europe",
+        "North America",
+        "Middle East",
+        "Southeast Asia",
+        "Oceania",
+        "Latin America"
+      ],
+      "note": "Illustrative route map: destinations depend on each client's project."
+    },
+    "sourcing": {
+      "eyebrow": "Product sourcing & manufacturing",
+      "title": "Quality products, made to last.",
+      "body": "We connect you with quality products in Taiwan and help you create products that are designed to last. From sourcing the right materials to coordinating production, we take care of the details so your product meets your expectations.",
+      "points": [
+        "Product and material sourcing",
+        "Production coordination",
+        "Focus on quality and durability"
+      ],
+      "imageAlt": "Automated production line in a modern manufacturing plant"
+    },
+    "shipping": {
+      "eyebrow": "Shipping & delivery",
+      "title": "Delivered to your country.",
+      "body": "Finding the right product is only half of the job. We arrange the shipment and coordinate the final delivery in the destination country, so your goods arrive without problems.",
+      "points": [
+        "Shipment arrangement",
+        "Coordination until final delivery",
+        "One contact throughout"
+      ],
+      "imageAlt": "Aerial view of a container ship at sea"
+    },
+    "afterSales": {
+      "eyebrow": "After-sales support",
+      "title": "We stay after delivery.",
+      "body": "Our work does not end when the goods arrive. We also take care of your after-sales service, so you always have a contact in Taiwan when you need one.",
+      "points": [
+        "Follow-up after delivery",
+        "A direct contact in Taiwan",
+        "Support for long-term business"
+      ],
+      "imageAlt": "Boxes stored on warehouse shelving"
+    },
+    "advantages": {
+      "eyebrow": "Business advantages",
+      "title": "What working with Pomelos means for your business.",
+      "items": [
+        {
+          "title": "Better pricing",
+          "description": "No advertising budget to recover means more competitive prices."
+        },
+        {
+          "title": "Faster decisions",
+          "description": "A flat organisation with short lines of communication."
+        },
+        {
+          "title": "Clear communication",
+          "description": "Concise updates and a team that understands both East and West."
+        },
+        {
+          "title": "Durable products",
+          "description": "Products chosen and made to last, not to be replaced."
+        },
+        {
+          "title": "Less to manage",
+          "description": "Sourcing, production, delivery and after-sales handled by one partner."
+        },
+        {
+          "title": "A better future",
+          "description": "Durable products help create a livable environment for the next generation."
+        }
+      ]
+    },
+    "openApplication": {
+      "eyebrow": "Open application",
+      "title": "Looking for something we haven't listed?",
+      "description": "Excited? Take a look at our services. Is there anything you are looking for that is not listed? Send us an email describing what you need and we will get in touch with you."
+    },
+    "faq": {
+      "eyebrow": "FAQ",
+      "title": "Frequently asked questions.",
+      "items": [
+        {
+          "q": "What does Pomelos do?",
+          "a": "Pomelos is a sourcing and sales business based in Taiwan. We help business owners around the globe source quality products in Taiwan, from sourcing materials and manufacturing to final delivery in the destination country and after-sales service."
+        },
+        {
+          "q": "Who will I be working with?",
+          "a": "You work directly with the owner. There is no junior taking over your project."
+        },
+        {
+          "q": "Can you help me find a product that is not listed on your website?",
+          "a": "Yes. Send us an email at Business@pomelos.com.tw describing what you are looking for, and we will get in touch with you."
+        },
+        {
+          "q": "Can you help me develop and manufacture my own product?",
+          "a": "Yes. Besides connecting you with existing quality products, we help you create products designed to last and take care of production."
+        },
+        {
+          "q": "Do you arrange shipping to my country?",
+          "a": "Yes. We arrange the shipment and coordinate the final delivery in the destination country."
+        },
+        {
+          "q": "What happens after the goods are delivered?",
+          "a": "We also take care of your after-sales service, so you keep a direct contact in Taiwan."
+        },
+        {
+          "q": "How do I get started?",
+          "a": "Contact us for a free consultation. We will discuss your project together and see how we can help you."
+        }
+      ]
+    },
+    "cta": {
+      "eyebrow": "Free consultation",
+      "title": "Still figuring out sourcing and sales for your global business?",
+      "description": "Get in touch with Pomelos for a free consultation. Let's discuss your project together and see how we can help you."
+    }
+  },
+  "services": {
+    "labels": {
+      "benefits": "Key benefits",
+      "how": "How it works",
+      "cta": "Discuss your project"
+    },
+    "items": {
+      "product-sourcing": {
+        "title": "Product Sourcing",
+        "short": "Find the right quality products in Taiwan for your market.",
+        "description": "Tell us what you are looking for and we will find it. We search for quality products in Taiwan that match your requirements, your market and your budget, with a clear preference for products that are made to last.",
+        "benefits": [
+          "Access to quality products made in Taiwan",
+          "One partner who understands your requirements",
+          "Products chosen for durability, not short cycles"
+        ],
+        "how": [
+          "You describe the product you need",
+          "We search and shortlist suitable options in Taiwan",
+          "We discuss the options with you and you decide"
+        ],
+        "imageAlt": "Taipei skyline at night"
+      },
+      "supplier-coordination": {
+        "title": "Material Sourcing & Supplier Coordination",
+        "short": "Sourcing materials and coordinating with the right partners in Taiwan.",
+        "description": "Good products start with good materials and reliable partners. We source materials and coordinate with suppliers and manufacturers in Taiwan, so you don't have to manage those relationships from abroad.",
+        "benefits": [
+          "No need to manage suppliers from abroad",
+          "Clear, concise communication in both directions",
+          "One point of contact for every partner involved"
+        ],
+        "how": [
+          "We identify the materials and partners your project needs",
+          "We coordinate requirements and follow up",
+          "We keep you updated in one line, not a paragraph"
+        ],
+        "imageAlt": "Two business partners shaking hands"
+      },
+      "manufacturing-support": {
+        "title": "Manufacturing Support",
+        "short": "We take care of your production and help you create products designed to last.",
+        "description": "Whether you need an existing product produced for your brand or want to create something new, we take care of the production process in Taiwan and keep quality and durability at the centre of every decision.",
+        "benefits": [
+          "Production handled on your behalf",
+          "Products designed to last",
+          "A partner on the ground in Taiwan"
+        ],
+        "how": [
+          "We discuss your product and quality expectations",
+          "We coordinate production with the manufacturer",
+          "We follow up until your goods are ready to ship"
+        ],
+        "imageAlt": "Hands using a digital caliper to measure a metal part"
+      },
+      "sales-support": {
+        "title": "Import & Sales Support",
+        "short": "Support for importing goods into your country without problems.",
+        "description": "Pomelos stands for sourcing and sales. We support business owners who want to import goods from Taiwan into their own country and help them build a trading relationship that works for both sides.",
+        "benefits": [
+          "A partner in Taiwan for your import business",
+          "Fewer misunderstandings between cultures",
+          "Solutions focused on your global business"
+        ],
+        "how": [
+          "We learn about your market and your goals",
+          "We align products, pricing and logistics",
+          "We support the trade from start to finish"
+        ],
+        "imageAlt": "Harbour in Taiwan with cargo ships and cranes"
+      },
+      "shipping-delivery": {
+        "title": "Shipping & Delivery Coordination",
+        "short": "We arrange shipment and coordinate final delivery to your country.",
+        "description": "We arrange the shipment of your goods and coordinate the journey until the final delivery in the destination country, keeping you informed along the way.",
+        "benefits": [
+          "Shipment arranged for you",
+          "Coordination until final delivery",
+          "One contact for every question"
+        ],
+        "how": [
+          "We plan the shipment with you",
+          "We coordinate the transport from Taiwan",
+          "We follow up until the goods are delivered"
+        ],
+        "imageAlt": "Aerial view of a container ship at sea"
+      },
+      "after-sales": {
+        "title": "After-Sales Support",
+        "short": "We also take care of your after-sales service.",
+        "description": "Our responsibility does not end at delivery. We take care of your after-sales service, so you always have a direct contact in Taiwan for follow-up questions and future orders.",
+        "benefits": [
+          "A direct contact after delivery",
+          "Follow-up handled from Taiwan",
+          "A long-term business relationship"
+        ],
+        "how": [
+          "You contact us directly with any issue",
+          "We follow up with the relevant partner in Taiwan",
+          "We work with you on a solution"
+        ],
+        "imageAlt": "Cardboard boxes stored on warehouse shelving"
+      }
+    }
+  },
+  "servicesPage": {
+    "eyebrow": "Services",
+    "title": "Sourcing and sales from Taiwan to the world.",
+    "description": "We help business owners around the globe source quality products in Taiwan. From sourcing materials and manufacturing to final delivery in the destination country. We also take care of your after-sales service. Our goal is to provide solutions for global business.",
+    "indexLabel": "All services",
+    "ctaTitle": "Need something that is not listed here?",
+    "ctaDescription": "Send us a description of what you are looking for. We will get in touch with you."
+  },
+  "about": {
+    "hero": {
+      "eyebrow": "About us",
+      "title": "How Pomelos was born.",
+      "description": "Two friends from two opposite cultures, and one shared belief: products should be made to last."
+    },
+    "story": {
+      "eyebrow": "Our story",
+      "title": "East meets West.",
+      "paragraphs": [
+        "We are two friends coming from two opposite cultures, one from the East and one from the West.",
+        "One of us grew up in a culture with a strong appreciation for second-hand goods, vintage pieces and products with enduring quality and character. The other grew up in a culture that values newness and fast fashion, where trends change rapidly and products are designed around shorter consumption cycles.",
+        "We miss a time when products were made to last, rather than being replaced every year or even every few months."
+      ],
+      "quote": "I miss that massage machine my grandpa bought from a Japanese brand 20 years ago. It still works perfectly today. If I spent the same amount of money now, I would not get the same quality.",
+      "quoteCaption": "One of the founders of Pomelos",
+      "closing": "This is why Pomelos was born.",
+      "imageAlt": "Taipei skyline with Taipei 101 at night",
+      "east": "East",
+      "west": "West"
+    },
+    "mission": {
+      "title": "What we do",
+      "text": "We connect you with quality products. We also help you create products designed to last."
+    },
+    "vision": {
+      "title": "Why it matters",
+      "text": "Let's create a livable environment for our next generation."
+    },
+    "philosophy": {
+      "eyebrow": "Our philosophy",
+      "title": "Made to last.",
+      "items": [
+        {
+          "title": "Quality over newness",
+          "description": "We look for products with enduring quality and character, not short consumption cycles."
+        },
+        {
+          "title": "Durability is sustainability",
+          "description": "A product that lasts twenty years is better for its owner and for the planet."
+        },
+        {
+          "title": "Honest value",
+          "description": "The same money should buy the same quality. That is the standard we work towards."
+        }
+      ]
+    },
+    "principles": {
+      "eyebrow": "About Pomelos",
+      "title": "How we work with you.",
+      "items": [
+        {
+          "title": "Direct",
+          "description": "There is no junior taking over your project. You are working directly with the owner."
+        },
+        {
+          "title": "Flexible",
+          "description": "We are a team with flexibility and problem-solving skills."
+        },
+        {
+          "title": "Concise",
+          "description": "We are a flat organisation. If something can be communicated in one line, there is no need for a paragraph."
+        },
+        {
+          "title": "Fair",
+          "description": "We don't spend our budget on advertising, because we want to provide the best price for our customers."
+        }
+      ]
+    },
+    "clients": {
+      "eyebrow": "Working with international clients",
+      "title": "Personal, direct and flexible.",
+      "description": "Whether you are an importer, a wholesaler or a brand owner, we adapt to your project and keep the relationship personal.",
+      "steps": [
+        "We listen first: a free consultation to understand your project.",
+        "We propose a practical approach and agree on the next steps.",
+        "We keep you updated with short, clear messages.",
+        "We stay your contact in Taiwan, during and after the project."
+      ]
+    },
+    "expect": {
+      "eyebrow": "What can you expect from us?",
+      "title": "We take care of your production and delivery, all the way to after-sales service."
+    }
+  },
+  "contact": {
+    "hero": {
+      "eyebrow": "Contact",
+      "title": "Still figuring out sourcing and sales for your global business?",
+      "description": "Get in touch with Pomelos for a free consultation. Let's discuss your project together and see how we can help you."
+    },
+    "aside": {
+      "emailTitle": "Prefer email?",
+      "emailText": "You can also email us directly.",
+      "responseTitle": "What happens next",
+      "steps": [
+        "We read your message and may ask a few questions.",
+        "We discuss your project together in a free consultation.",
+        "We propose how we can help you."
+      ],
+      "promise": "We will be in touch with you shortly.",
+      "privacy": "We only use your details to reply to your enquiry. See our <link>Privacy Policy</link>."
+    },
+    "form": {
+      "title": "Tell us about your project",
+      "name": "Full name",
+      "namePlaceholder": "Your name",
+      "email": "Business email",
+      "emailPlaceholder": "you@company.com",
+      "company": "Company name",
+      "companyPlaceholder": "Your company",
+      "country": "Country",
+      "countryPlaceholder": "Where is your business based?",
+      "service": "Service of interest",
+      "servicePlaceholder": "Select a service",
+      "serviceOther": "Something else (open application)",
+      "message": "Project details",
+      "messagePlaceholder": "What are you looking for? Tell us about the product, quantities, your market and your timeline.",
+      "consent": "I agree that Pomelos uses my details to reply to this enquiry, as described in the <link>Privacy Policy</link>.",
+      "honeypot": "Leave this field empty",
+      "submit": "Send message",
+      "submitting": "Sending…",
+      "required": "Required",
+      "optional": "Optional",
+      "characters": "{count} / {max}",
+      "secureNote": "Your message is sent securely and protected against spam.",
+      "success": {
+        "title": "Thank you, message received.",
+        "description": "We will be in touch with you shortly.",
+        "again": "Send another message"
+      },
+      "turnstileLabel": "Spam protection"
+    },
+    "errors": {
+      "nameRequired": "Please enter your name.",
+      "nameTooLong": "Name must be 100 characters or fewer.",
+      "emailInvalid": "Please enter a valid email address.",
+      "emailTooLong": "Email must be 254 characters or fewer.",
+      "companyTooLong": "Company name must be 120 characters or fewer.",
+      "countryRequired": "Please enter your country.",
+      "countryTooLong": "Country must be 80 characters or fewer.",
+      "serviceInvalid": "Please select a service.",
+      "messageTooShort": "Please describe your project in at least 20 characters.",
+      "messageTooLong": "Project details must be 4,000 characters or fewer.",
+      "consentRequired": "Please confirm you agree to the Privacy Policy.",
+      "turnstileRequired": "Please complete the spam check.",
+      "turnstileFailed": "The spam check failed. Please try again.",
+      "turnstileUnavailable": "The spam check could not load. Please disable blockers for this site or email us directly.",
+      "rateLimited": "Too many messages. Please wait a few minutes and try again.",
+      "invalidRequest": "Your message could not be processed. Please refresh the page and try again.",
+      "server": "Something went wrong on our side. Please try again later or email us directly.",
+      "network": "Network error. Please check your connection and try again.",
+      "fixFields": "Please correct the highlighted fields."
+    }
+  },
+  "footer": {
+    "tagline": "Sourcing and sales from Taiwan to the world.",
+    "company": "Company",
+    "servicesTitle": "Services",
+    "legal": "Legal",
+    "contactTitle": "Contact",
+    "location": "Taiwan",
+    "rights": "© {year} Pomelos. All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms & Conditions",
+    "cookies": "Cookie Policy",
+    "credits": "Photography from Unsplash:",
+    "backToTop": "Back to top"
+  },
+  "notFound": {
+    "code": "404",
+    "title": "This shipment went off course.",
+    "description": "The page you are looking for doesn't exist or has moved. Let's get you back on route.",
+    "home": "Return home",
+    "contact": "Contact us"
+  },
+  "error": {
+    "title": "Something went wrong.",
+    "description": "An unexpected error occurred. Please try again.",
+    "retry": "Try again",
+    "reference": "Reference: {digest}"
+  },
+  "legal": {
+    "notice": "This document is a template and should be reviewed by qualified legal counsel before publication.",
+    "updated": "[Insert date]",
+    "toc": "On this page",
+    "privacy": {
+      "title": "Privacy Policy",
+      "intro": "This Privacy Policy explains how Pomelos (\"we\", \"us\") collects, uses and protects personal information when you use this website. We collect as little personal information as possible.",
+      "sections": [
+        {
+          "title": "Information we collect",
+          "body": [
+            "Contact form: when you submit the contact form we collect your name, business email, company name (optional), country, the service you are interested in and your project details.",
+            "Email: when you email us directly, we receive the information you choose to include.",
+            "Technical data: our servers and security providers process your IP address and basic request information to deliver the site, prevent abuse and limit spam. This data is not used for marketing.",
+            "We do not use analytics, advertising or tracking cookies."
+          ]
+        },
+        {
+          "title": "How we use your information",
+          "body": [
+            "To reply to your enquiry and discuss your project.",
+            "To protect the website against spam and abuse.",
+            "To comply with legal obligations."
+          ]
+        },
+        {
+          "title": "Legal basis",
+          "body": [
+            "We process your enquiry to respond to your request before any agreement is made, and technical data on the basis of our legitimate interest in keeping this website secure. Where applicable, this includes processing under Taiwan's Personal Data Protection Act and the EU/UK GDPR."
+          ]
+        },
+        {
+          "title": "Service providers",
+          "body": [
+            "We use a small number of providers to run this website: [hosting provider], Cloudflare (security and spam protection via Turnstile) and [email provider] to deliver enquiry emails. They process data only on our instructions.",
+            "[Placeholder: list each provider and where it processes data.]"
+          ]
+        },
+        {
+          "title": "Retention",
+          "body": [
+            "We keep enquiries only as long as needed to respond and to manage any resulting business relationship, and no longer than [retention period]."
+          ]
+        },
+        {
+          "title": "Your rights",
+          "body": [
+            "You may request access to, correction of or deletion of your personal information, or object to its processing, by emailing {email}."
+          ]
+        },
+        {
+          "title": "Security",
+          "body": [
+            "We protect information with encryption in transit (HTTPS), access controls and secure development practices. No system is perfectly secure, but we take reasonable measures appropriate to the risk."
+          ]
+        },
+        {
+          "title": "Contact",
+          "body": [
+            "For privacy questions, contact {email}."
+          ]
+        }
+      ]
+    },
+    "terms": {
+      "title": "Terms & Conditions",
+      "intro": "These terms govern your use of the Pomelos website. By using the website you agree to these terms.",
+      "sections": [
+        {
+          "title": "Use of the website",
+          "body": [
+            "This website provides general information about Pomelos and its services. You agree not to misuse the website, including attempting to gain unauthorised access, interfering with its operation or submitting malicious content."
+          ]
+        },
+        {
+          "title": "No offer or contract",
+          "body": [
+            "Information on this website is general and does not constitute an offer. Any sourcing, production, shipping or after-sales services are provided only under a separate agreement."
+          ]
+        },
+        {
+          "title": "Intellectual property",
+          "body": [
+            "The Pomelos name, logo, text and design of this website belong to Pomelos unless stated otherwise. Photographs are used under the Unsplash License and remain the property of their photographers."
+          ]
+        },
+        {
+          "title": "Limitation of liability",
+          "body": [
+            "To the extent permitted by law, Pomelos is not liable for any loss arising from use of this website or reliance on its content. Nothing in these terms limits liability that cannot be limited by law."
+          ]
+        },
+        {
+          "title": "Changes",
+          "body": [
+            "We may update these terms from time to time. The latest version is always published on this page."
+          ]
+        },
+        {
+          "title": "Governing law",
+          "body": [
+            "These terms are governed by the laws of [jurisdiction, e.g. Taiwan (R.O.C.)]."
+          ]
+        }
+      ]
+    },
+    "cookies": {
+      "title": "Cookie Policy",
+      "intro": "This website only uses cookies that are needed for it to work and stay secure. We do not use analytics, advertising or tracking cookies.",
+      "sections": [
+        {
+          "title": "Cookies we use",
+          "body": [
+            "NEXT_LOCALE: remembers your language (English or Traditional Chinese). Expires after 12 months.",
+            "pml_intro: remembers that you have seen the short loading animation during this browser session, so it is not shown again. Deleted when you close your browser.",
+            "Cloudflare security cookies (for example __cf_bm): may be set by Cloudflare to protect the site against bots and attacks.",
+            "Cloudflare Turnstile: the spam-protection widget on the contact form may store technical data needed to complete the check. It is not used for advertising."
+          ]
+        },
+        {
+          "title": "Managing cookies",
+          "body": [
+            "You can block or delete cookies in your browser settings. Blocking them may affect your language preference and the contact form."
+          ]
+        },
+        {
+          "title": "Contact",
+          "body": [
+            "Questions about cookies? Contact {email}."
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,5 @@
+# Security contact (RFC 9116). Update Expires before it lapses.
+Contact: mailto:Business@pomelos.com.tw
+Expires: 2027-11-14T00:00:00.000Z
+Preferred-Languages: en, zh-TW
+Canonical: https://pomelos.com.tw/.well-known/security.txt
